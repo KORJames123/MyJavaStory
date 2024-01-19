@@ -12,5 +12,5 @@ public class Rotate {
 }
 
 // Review
-// for(int k : List) : List의 값을 하나씩 차례로 꺼내와 k에 입힌다.
+// for(int k : str) : str의 값을 하나씩 차례로 꺼내와 k에 입힌다.
 // for(char ch : a.toCharArray()) : a의 String문자열을 char문자배열로 바꾸어 주는 메소드
